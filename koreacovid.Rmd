@@ -57,7 +57,10 @@ In the numerical data provided to us, we are able to see accurate numbers in ter
 
 ## Inferential results 
 
+The null hypothesis is
+$H_0$: There is no difference in the portion of men dying compared to the portion of women. 
 
+$H_A$: There is a difference in the proportion of men dying compared to the women.
 
 
 ## Conclusions
