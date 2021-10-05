@@ -76,3 +76,4 @@ The fisher test gives us the odds of dying. For males we can compute the exact n
 
 ## Conclusions
 
+When presented with the question whether dying is independent of sex, we had to analyze different data tables in order to find the answer. The data showed that men were seemingly more likely to die than women from covid. This data was taken at the beginning of the pandemic, January 2020, when very little was known about covid. 
