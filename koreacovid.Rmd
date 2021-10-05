@@ -62,6 +62,17 @@ $H_0$: There is no difference in the portion of men dying compared to the portio
 
 $H_A$: There is a difference in the proportion of men dying compared to the women.
 
+```{r}
+chisq.test(table1)
+#Next we do tiger stats chi sq test
+chisqtestGC(table1)
+#Next we will do a fisher test
+fisher.test(table1)
+```
+
+The chi sq test provides us with the exact amount of individuals whom have either lived or passed. It shows that 1831 were females and 1411 males were found alive. It also shows how many of each had died with 25 being females and 44 being males. 
+
+The fisher test gives us the odds of dying. For males we can compute the exact number by using the equation 44/1411 and for females we can use the equation 25/1831. The odds ratio is 44/1411 divided by 25/1831. The odds ratio for the chance of a male to a female dying is 2.3. Males are 2.3 times more likely to die than females. 
 
 ## Conclusions
 
